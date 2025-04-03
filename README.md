@@ -1,6 +1,6 @@
 # Rate My Professor API
 
-Python API for scraping and searching Rate My Professor data from all professors of a single university. This API can be used to search for professors, get their ratings, and export the data to CSV files.
+Bare bones Python API for scraping and searching Rate My Professor data from all professors of a single university. This API can be used to search for professors, get their ratings, and export the data to CSV files.
 
 ## Getting Started
 
